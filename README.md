@@ -1,2 +1,4 @@
 # Data-Visualization-with-Python-Plotly
-from 2D Visualization to 3D and even more dimensions.
+
+1- Theming and templates in Python
+
