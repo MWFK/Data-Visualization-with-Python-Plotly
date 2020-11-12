@@ -46,6 +46,75 @@
 
 21 Ternary charts
 
+# [Part 2] Data Visualization with Python Plotly
+
+1- Subplots
+
+2- Graph Objects
+
+3- Basic Table
+
+4- Sankey diagram
+
+5- Gant Diagram
+
+6- Fitting multiple lines
+
+
+# [Part 3] Data Visualization with Python Plotly
+
+1- Candlestick
+
+2- Indicators
+
+3- Information above Chart
+
+4- Gauge
+
+5- Range of axes
+
+6- Surface Plot With Contours
+
+7- 3D Surface Subplots
+
+8- Table and Chart Subplots
+
+9- Horizontal Table and Chart
+
+10- Histogram Binning
+
+11- Relayout Button
+
+12- Update Dropdown
+
+13- Range Slider with Vertically Stacked Subplots
+
+14- Slider and Buttons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
