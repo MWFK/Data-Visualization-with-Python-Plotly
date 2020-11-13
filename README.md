@@ -46,7 +46,7 @@
 
 21 Ternary charts
 
-# [Part 2] Data Visualization with Python Plotly
+### [Part 2] Data Visualization with Python Plotly
 
 1- Subplots
 
@@ -61,7 +61,7 @@
 6- Fitting multiple lines
 
 
-# [Part 3] Data Visualization with Python Plotly
+### [Part 3] Data Visualization with Python Plotly
 
 1- Candlestick
 
@@ -92,7 +92,7 @@
 14- Slider and Buttons
 
 
-
+### Plotly themes
 
 
 
