@@ -92,7 +92,7 @@
 14- Slider and Buttons
 
 
-### Plotly themes
+##### Plotly themes
 
 
 
